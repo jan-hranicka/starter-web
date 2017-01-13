@@ -18,3 +18,6 @@ Some text about deployment
 ## How to contribute
 
 Sample website with plenty of files for demos
+
+### Copyright
+Something about copyright
