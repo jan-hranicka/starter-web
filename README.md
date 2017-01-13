@@ -17,6 +17,8 @@ Some text about deployment
 
 ## How to contribute
 
+Please for this repository and then issue Pull Request for review.
+
 Sample website with plenty of files for demos
 
 ### Copyright
