@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Morphid		morphid1@gmail.com
 
 # THANKS
 
