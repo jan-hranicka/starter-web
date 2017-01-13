@@ -9,7 +9,11 @@ This is an example to show different parts of the Git repository and various com
 
 ## Purpose
 
+Some other text
+
 ## Deployment
+
+Some text about deployment
 
 ## How to contribute
 
