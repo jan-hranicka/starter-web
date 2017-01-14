@@ -23,4 +23,4 @@ Please for this repository and then issue Pull Request for review.
 Sample website with plenty of files for demos
 
 ### Copyright
-Something about copyright. All rights reserved!
+(c) 2017 by Morphid. All rights reserved!
